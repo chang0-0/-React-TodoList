@@ -34,7 +34,7 @@ function App() {
   //     checked: false,
   //   },
   // ]);
-  `4`;
+  //`4`;
   const [todos, setTodos] = useState(createBulkTodos);
 
   //로컬 변수 정의
